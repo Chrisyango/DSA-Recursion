@@ -1,0 +1,11 @@
+{
+  "name": "arrays",
+  "version": "1.0.0",
+  "description": "Testing out Arrays in Memory",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Chris Yang",
+  "license": "ISC"
+}
